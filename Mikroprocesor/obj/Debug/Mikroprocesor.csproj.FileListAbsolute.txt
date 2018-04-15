@@ -1,0 +1,41 @@
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\bin\Debug\Mikroprocesor.exe.config
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\bin\Debug\Mikroprocesor.exe
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\bin\Debug\Mikroprocesor.pdb
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\bin\Debug\MySql.Data.dll
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.csprojResolveAssemblyReference.cache
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\MainWindow.baml
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\MainWindow.g.cs
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\App.g.cs
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor_MarkupCompile.cache
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.g.resources
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.Properties.Resources.resources
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.csproj.GenerateResource.Cache
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.exe
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Komunikator\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.pdb
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\bin\Debug\Mikroprocesor.exe.config
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.exe
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.pdb
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\bin\Debug\Mikroprocesor.exe
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\bin\Debug\Mikroprocesor.pdb
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.csprojResolveAssemblyReference.cache
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\MainWindow.baml
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\MainWindow.g.cs
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\App.g.cs
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor_MarkupCompile.cache
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.g.resources
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.Properties.Resources.resources
+D:\studia\V semestr\Podstawy organizacji systemów komputerowych\projekty\Mikroprocesor\Mikroprocesor\obj\Debug\Mikroprocesor.csproj.GenerateResource.Cache
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\bin\Debug\Mikroprocesor.exe.config
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\bin\Debug\Mikroprocesor.exe
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\bin\Debug\Mikroprocesor.pdb
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor.csprojResolveAssemblyReference.cache
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\MainWindow.baml
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\MainWindow.g.cs
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\App.g.cs
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor_MarkupCompile.cache
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor.g.resources
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor.Properties.Resources.resources
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor.csproj.GenerateResource.Cache
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor.csproj.CoreCompileInputs.cache
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor.exe
+C:\Users\mmant\Downloads\Microprocessor-simulator-master\Mikroprocesor\obj\Debug\Mikroprocesor.pdb
